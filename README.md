@@ -9,18 +9,19 @@
 +[Weather Station V2 Example](WeatherStationV2.java)
 
 ## For Loop
-+[If Example](If.java)
++[For Examples](ForExamples.java)
++[For Exercises](ForExcersis.java)
 +[Late Library Fee Example](LibraryLateFeeCalculator.java)
 +[Solar Energy Calculator Example](SolarEnergyCalculator.java)
 +[Restaurant Order System Example](RestaurantOrderSystem.java)
 
 
 ## While
-+[Switch Example](Switch.java)
++[While Loop Examples](WhileLoopExamples.java)
 +[Library Fine Calculator Example](LibraryFineCalculator.java)
 +[Vending Machine Simulator Example](VendingMachineSimulator.java)
 
 
 ## Do While
-+[Switch Example](Switch.java)
++[Do While Loop Example](DoWhileLoopExamples.java)
 +[Password Change System Examples](PasswordChangeSystem.java)
