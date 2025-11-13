@@ -10,7 +10,7 @@
 
 ## For Loop
 +[For Examples](ForExamples.java)
-+[For Exercises](ForExcercises.java)
++[For Exercises](ForExercises.java)
 +[Late Library Fee Example](LibraryLateFeeCalculator.java)
 +[Solar Energy Calculator Example](SolarEnergyCalculator.java)
 +[Restaurant Order System Example](RestaurantOrderSystem.java)
